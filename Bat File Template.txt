@@ -1,0 +1,1 @@
+"C:\Users\nwiand\PycharmProjects\untitled\venv\Scripts\python.exe" "G:\My Drive\Projects\Python\Nick Wiand (working)\script name.py"
